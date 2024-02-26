@@ -8,7 +8,6 @@ import {
   View,
 } from "react-native";
 import { FontAwesome6 } from "@expo/vector-icons";
-import { Entypo } from "@expo/vector-icons";
 
 const profile = require("../LaguageExplorer/images/images.jpg");
 const backimage = require("../LaguageExplorer/images/file.jpg");
