@@ -24,7 +24,7 @@ export default function App() {
       </View>
       <View style={styles.text}>
         <Text style={{ fontSize: 60, color: "brown" }}>Your</Text>
-        <Text style={{ fontSize: 60, color: "brown" }}>Learning</Text>
+        <Text style={{ fontSize: 60, color: "brown" }}>Learning!</Text>
       </View>
       <View style={styles.mune}>
         <TouchableOpacity style={styles.menu}>
