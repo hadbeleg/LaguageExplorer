@@ -9,8 +9,8 @@ import {
 } from "react-native";
 import { FontAwesome6 } from "@expo/vector-icons";
 
-const profile = require("../LaguageExplorer/images/images.jpg");
-const backimage = require("../LaguageExplorer/images/file.jpg");
+const profile = require("./images/images.jpg");
+const backimage = require("./images/brown.jpg");
 
 export default function App() {
   return (
